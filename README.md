@@ -39,6 +39,14 @@ Code files are located in the `software/` directory.
 
 ---
 
+## Enclosure Design
+- Custom enclosure designed specifically for the project using SolidWorks  
+- Enclosure manufactured using PLA with 3D printing  
+- Designed to fit the E-Ink display, Raspberry Pi, buttons, and battery securely  
+- Focused on compact size and portable use
+
+---
+
 ## Notes
 This repository documents the working logic and system setup of the project.
 The goal is to demonstrate embedded system integration rather than polished
