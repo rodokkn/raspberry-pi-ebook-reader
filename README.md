@@ -9,9 +9,10 @@ application development.
 
 # Raspberry Pi E-Book Reader
 
-![Device Photo 1](hardware/enclosure/photos/m1.jpeg)
-
-![Device Photo 2](hardware/enclosure/photos/m2.jpeg)
+<p align="center">
+  <img src="hardware/enclosure/photos/m1.jpeg" width="45%">
+  <img src="hardware/enclosure/photos/m2.jpeg" width="45%">
+</p>
 
 
 
