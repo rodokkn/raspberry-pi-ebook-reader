@@ -15,6 +15,7 @@ application development.
 </p>
 
 
+
 A portable Raspberry Pi Zero 2 W based e-book reader featuring a 7.5" E-Ink
 display, capacitive touch buttons, and a custom 3D-printed enclosure.
 
