@@ -6,6 +6,14 @@ display.
 This project focuses on **hardware and system integration**, not complex
 application development.
 
+
+# Raspberry Pi E-Book Reader
+
+![Device Photo](C:\Users\egeha\Desktop\photos\WhatsApp Image 2026-01-17 at 15.14.37.jpeg)
+
+A portable Raspberry Pi Zero 2 W based e-book reader featuring a 7.5" E-Ink
+display, capacitive touch buttons, and a custom 3D-printed enclosure.
+
 ---
 
 ## Hardware
