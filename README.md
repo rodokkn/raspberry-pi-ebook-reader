@@ -9,7 +9,11 @@ application development.
 
 # Raspberry Pi E-Book Reader
 
-![Device Photo](C:\Users\egeha\Desktop\photos\WhatsApp Image 2026-01-17 at 15.14.37.jpeg)
+<p align="center">
+  <img src="hardware/enclosure/photos/m1.jpeg" width="420">
+  <img src="hardware/enclosure/photos/m2.jpeg" width="420">
+</p>
+
 
 A portable Raspberry Pi Zero 2 W based e-book reader featuring a 7.5" E-Ink
 display, capacitive touch buttons, and a custom 3D-printed enclosure.
