@@ -1,1 +1,1 @@
-This file includes STL documents of design of e-book reader
+This file includes STL documents of e-book reader
