@@ -48,7 +48,7 @@ for pin in BUTTONS.values():
 
 # -----------------------------
 # Reading progress storage
-# -----------------------------
+# ----------------------------
 
 PROGRESS_FILE = os.path.join(TXT_FOLDER, "progress.json")
 
